@@ -1,1 +1,2 @@
-console.log('hello, how are you doing?');
+console.log('hello, today is sunday');
+
